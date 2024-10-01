@@ -1,0 +1,6 @@
+aws account for participants
+
+signin url:	
+https://730966784584.signin.aws.amazon.com/console
+student1
+Training$100224
