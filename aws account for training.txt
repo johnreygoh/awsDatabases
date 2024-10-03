@@ -4,3 +4,9 @@ signin url:
 https://730966784584.signin.aws.amazon.com/console
 student1
 Training$100224
+
+accesskey: 
+AKIA2UMID7JEFWC3M5M6
+
+secret:
+zamRzjQ17kyFN4nVRtTmKnds7VbcygtuBCCM6UUS
